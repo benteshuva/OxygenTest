@@ -1,6 +1,6 @@
 web.transaction('Defining script variables');
-var po = require('./Ben/po.js');
-var common = require('./Ben/common.js');
+var po = require('/Ben/po.js');
+var common = require('/Ben/common.js');
 //var po = require('./po-adv.js');
 var email = 'cbtesting1337@gmail.com';
 var password = 'q1w2e3r4';
